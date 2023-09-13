@@ -1,6 +1,6 @@
 ## Andrew Chau 
-### kuzals@gmail.com
-### https://github.com/DrewChauD/
+### contact e-mail: kuzals@gmail.com
+### GitHub page: https://github.com/DrewChauD/
 ### BrainStation Data Science Capstone Project
 ### Summer 2023
 ### Repairability of Consumer Electronics
@@ -11,20 +11,23 @@
 
 # Data Dictionary:
 
-id: username of the person attempting the repair <br>
-data_provider: associated organization overseeing the repairs <br>
-country: country in which the repair attempt took place <br>
-partner_product_category: includes the general category the product is in <br>
-product_category: type of item, categorical <br>
-product_category_id: product_category, associated number <br>
-brand: manufacturer / brand of the item <br>
-year_of_manufacture: year the item was made <br>
-product_age: age of the product at the time of the repair attempt <br>
-repair_status: item can be listed as "Fixed, Repairable, End of Life, or Unknown" <br>
-repair_barrier_if_end_of_life: a description on why the item cannot be repaired <br>
-group_identifier: the organization hosting the repair event <br>
-event_date: date of the repair event <br>
-problem: a description of the issue(s) with the item <br>
+The data dictionary is formatted as follows<br>
+column name: description :datatype<br>
+
+id: username of the person attempting the repair :object <br>
+data_provider: associated organization overseeing the repairs :object <br>
+country: country in which the repair attempt took place :object<br>
+partner_product_category: also lists a subcategory of product compared to product_category :object<br>
+product_category: type of item, categorical :object<br>
+product_category_id: product_category, associated number :int64<br>
+brand: manufacturer / brand of the item :object<br>
+year_of_manufacture: year the item was made :float64<br>
+product_age: age of the product at the time of the repair attempt :float64<br>
+repair_status: item can be listed as "Fixed, Repairable, End of Life, or Unknown" :object<br>
+repair_barrier_if_end_of_life: a description on why the item cannot be repaired :object<br>
+group_identifier: the organization hosting the repair event :object<br>
+event_date: date of the repair event :object<br>
+problem: a description of the issue(s) with the item :object<br>
 
 ## Problem Space: 
 
