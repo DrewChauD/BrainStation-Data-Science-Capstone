@@ -55,42 +55,42 @@ Notebook #1 - Andrew_Chau_BrainStation_DS_Capstone_Book_1_EDA.ipynb
 * Introduction
 * Dataset Information
 * Exploratory Data Analysis Part 1 of 2
- - shape, datatypes, distribution, close-up look at the data
- - data cleaning
+  - shape, datatypes, distribution, close-up look at the data
+  - data cleaning
 * Exploratory Data Analysis Part 2 of 2
- - looking at count of values
- - relationship between columns
- - visual representation of findings
+  - looking at count of values
+  - relationship between columns
+  - visual representation of findings
 
 Notebook #2 - Andrew_Chau_BrainStation_DS_Capstone_Book_2_Modeling.ipynb
 
 * Data preprocessing for Decision-Tree Modeling
- - feature selection
- - reduce Target Variable column down from 4 values to 2
- - data transformation (one-hot encoding, dummy variables, sparse matrix)
- - balancing classes (downsampling)
+  - feature selection
+  - reduce Target Variable column down from 4 values to 2
+  - data transformation (one-hot encoding, dummy variables, sparse matrix)
+  - balancing classes (downsampling)
 * Decision-Tree Modeling
- - Sci-kit Learn DecisionTreeClassifier
- - Presenting the results in confusion matrices in both numeric and visual forms
+  - Sci-kit Learn DecisionTreeClassifier
+  - Presenting the results in confusion matrices in both numeric and visual forms
 * Data preprocessing for Natural Language Processing
- - Further data cleaning to only include English
- - reduce Target Variable column down from 4 values to 2
- - Sci-kit Learn CountVectorizer
- - Determining how much of the data to include in the model
- - Removing English stop words
- - Lemmatization of remaining words
+  - Further data cleaning to only include English
+  - reduce Target Variable column down from 4 values to 2
+  - Sci-kit Learn CountVectorizer
+  - Determining how much of the data to include in the model
+  - Removing English stop words
+  - Lemmatization of remaining words
 * Natural Language Processing Modeling (Logistic Regression)
- - Logistic Regression
- - Determining and displaying the coefficients for positive and negative words
- - Presenting the results in confusion matrices in both numeric and visual forms
- - Attempt at XGBoost for increased performance
- - Hyperparameter tuning, grid search, bagging, boosting
+  - Logistic Regression
+  - Determining and displaying the coefficients for positive and negative words
+  - Presenting the results in confusion matrices in both numeric and visual forms
+  - Attempt at XGBoost for increased performance
+  - Hyperparameter tuning, grid search, bagging, boosting
 
 * Leading Model Evaluation
- - Performance evaluation versus baseline
- - Reflections on model optimization process
+  - Performance evaluation versus baseline
+  - Reflections on model optimization process
 
 * Conclusion
- - Model suitability to solve the listed problem
- - Impact of using the model
- - Next steps
+  - Model suitability to solve the listed problem
+  - Impact of using the model
+  - Next steps
