@@ -1,7 +1,7 @@
 ## Andrew Chau 
 ### contact e-mail: kuzals@gmail.com
 ### GitHub page: https://github.com/DrewChauD/
-### BrainStation Data Science Capstone Project
+## BrainStation Data Science Capstone Project
 ### Summer 2023
 ### Repairability of Consumer Electronics
 
