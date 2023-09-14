@@ -1,13 +1,13 @@
 ## Andrew Chau 
 ### contact e-mail: kuzals@gmail.com
 ### GitHub page: https://github.com/DrewChauD/
-## BrainStation Data Science Capstone Project
-### Summer 2023
+# BrainStation Data Science Capstone Project
 ### Repairability of Consumer Electronics
+### Summer 2023
 
 ## Dataset: Open Repair Alliance - https://openrepair.org/open-data/downloads/ - File: [OpenRepairData_v0.3_aggregate_202303.csv](https://github.com/DrewChauD/BrainStation-Data-Science-Capstone/blob/main/Notebooks/Data/OpenRepairData_v0.3_aggregate_202303.csv)
 
-### The dataset as of August 2023 contains roughly 100,000 rows and 15 columns
+### The dataset as of August 2023 is 19MB and 103,076 rows x 14 columns.
 
 # Data Dictionary:
 
