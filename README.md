@@ -5,7 +5,7 @@
 ### Summer 2023
 ### Repairability of Consumer Electronics
 
-## Dataset: Open Repair Alliance - https://openrepair.org/open-data/downloads/ - OpenRepairData_v0.3_aggregate_202303.csv
+## Dataset: Open Repair Alliance - https://openrepair.org/open-data/downloads/ - File: [OpenRepairData_v0.3_aggregate_202303.csv](https://github.com/DrewChauD/BrainStation-Data-Science-Capstone/blob/main/Notebooks/Data/OpenRepairData_v0.3_aggregate_202303.csv)
 
 ### The dataset as of August 2023 contains roughly 100,000 rows and 15 columns
 
